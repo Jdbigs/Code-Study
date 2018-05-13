@@ -1,0 +1,6 @@
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\bin\Debug\helloJT.exe.config
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\bin\Debug\helloJT.exe
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\bin\Debug\helloJT.pdb
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\obj\Debug\helloJT.csprojResolveAssemblyReference.cache
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\obj\Debug\helloJT.exe
+c:\users\j.d\documents\visual studio 2015\Projects\helloJT\helloJT\obj\Debug\helloJT.pdb
